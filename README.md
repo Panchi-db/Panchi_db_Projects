@@ -1,5 +1,5 @@
 # Projects.py
-"Primeros proyctos en Python: bases de datos, desarrollo de aplicaciones y EDAs."
+"Primeros proyectos en Python: bases de datos, desarrollo de aplicaciones y EDAs."
   Sobre mí
 Hola, soy Panchi_db, vengo del mundo del derecho y actualmente trabajo como funcionaria de Justicia en el puesto de Gestora procesal en funciones de Secretaria Judicial de un Juzgado de Paz.
 Desde octubre de 2024 he estado explorando y formándome en el apasionante mundo del análisis de datos, la inteligencia artificial y, proximamente, la ciberseguridad.
